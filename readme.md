@@ -1,0 +1,1 @@
+# Hi there, this is my first try to push repo to Git from VSCode
